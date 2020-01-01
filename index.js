@@ -13,6 +13,13 @@
 // node ./index.js <dosya-yolu>
 // node ./index.js ./input.txt
 
+// Referanslar
+// -> https://nodejs.org/api/fs.html#fs_fs_createwritestream_path_options
+// -> https://alligator.io/js/async-functions/
+// -> https://stackoverflow.com/questions/4482686/check-synchronously-if-file-directory-exists-in-node-js
+// -> https://stackoverflow.com/questions/45209049/how-to-read-a-file-line-by-line-into-an-array-in-node-js
+// -> https://stackabuse.com/reading-a-file-line-by-line-in-node-js/
+
 const fs = require('fs');
 const readLine = require('readline');
 
