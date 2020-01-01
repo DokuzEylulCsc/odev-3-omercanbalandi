@@ -1,0 +1,9 @@
+{
+  "name": "odev3-omercanbalandi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "execute": "node ./index.js"
+  },
+  "author": "obsfx"
+}
